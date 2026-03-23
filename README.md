@@ -5,12 +5,14 @@ This project is a Python-based web scraper that collects product listings from e
 
 Each item is stored as a dictionary containing:
 
+<uo>
 name: the title of the listing
 price: the price in cents (stored as an integer)
 status: condition of the item (e.g., New, Pre-owned)
 shipping: shipping cost in cents (0 if free)
 free_returns: whether the item has free returns (True/False/None)
 items_sold: number of items sold
+</uo>
 
 The final output is saved as either a JSON file or (optionally) a CSV file! 
 
