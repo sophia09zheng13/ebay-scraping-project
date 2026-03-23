@@ -1,0 +1,4802 @@
+[
+    {
+        "name": "creality 3d scanner sermoon p1",
+        "price": "$2,350.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Music Hall MMF 3.3 HiFi Turntable with Premium Upgrades",
+        "price": "$749.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 20
+    },
+    {
+        "name": "One Twelve Inch (305mm x 4mm x .6mm) Flat Rubber Turntable / Audio / Video /Belt",
+        "price": "$12.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "9 Inch (229mm x 4mm x .6mm) Flat Rubber Turntable / Audio / Video / Belt",
+        "price": "$9.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Automatic Turntable - Black (VPT-800-BLK)",
+        "price": "$84.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 21
+    },
+    {
+        "name": "Audio-Technica LP120XUSB-WB Direct-Drive Turntable (Analog & USB) White / Bronze",
+        "price": "$479.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP60X Turntable - Black",
+        "price": "$150.00",
+        "status": "Brand New",
+        "shipping": 22.55,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP60X Turntable - Black",
+        "price": "$179.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player Wireless Bluetooth Turntable HiFi System Magnetic Cartridge",
+        "price": "$159.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 158
+    },
+    {
+        "name": "Pro-Ject 2 Xperience Classic Turntable Olive Wood Carbon Arm \u2013 Needs Work",
+        "price": "$499.00",
+        "status": "Pre-Owned",
+        "shipping": 21.96,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Record Player Belt-Driven 3-Speed Turntable, with Headphone Jack",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 94
+    },
+    {
+        "name": "Fluance Reference High Fidelity Vinyl Turntable Record Player Ortofon Cartridge",
+        "price": "$399.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Reference High Fidelity Vinyl Turntable Record Player Ortofon Cartridge",
+        "price": "$349.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Music Hall MMF 2.3 HiFi Turntable with Premium Upgrades",
+        "price": "$549.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "4Tier AV Media Stand Record Player Storage Shelf Stereo Audio Rack Cabinet Unit",
+        "price": "$106.55",
+        "status": "Brand New",
+        "shipping": 5.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "For Pioneer PL-512 514/516/518/540/560 Vintage Turntable Replacement Feet",
+        "price": "$37.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Vintage Vinyl Record Player Belt-Driven 3-Speed Turntable  Aux Input",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 985
+    },
+    {
+        "name": "10-in-1 Bluetooth Record Player Multifunctional 3-Speed Turntable Vinyl Record",
+        "price": "$109.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 161
+    },
+    {
+        "name": "Audio-Technica AT-LP120XBT Direct-Drive Turntable (w/ Bluetooth, USB)",
+        "price": "$349.00",
+        "status": "Pre-Owned",
+        "shipping": 69.28,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player Turntable Bluetooth 3 Speed Built-in Speakers Retro Portable",
+        "price": "$33.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Record Player with Stereo Speakers Turntable for Vinyl to MP3",
+        "price": "$64.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 1524
+    },
+    {
+        "name": "Technics SL-L25 Linear Drive Turntable (Powers On) audio technica 3003 cartridge",
+        "price": "$49.99",
+        "status": "Parts Only",
+        "shipping": 32.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Reference High Fidelity Vinyl Turntable Record Player Nagaoka Cartridge",
+        "price": "$549.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Record Player Turntable with Stereo Speaker, LP Vinyl to MP3 Converter",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 822
+    },
+    {
+        "name": "Victrola Stream Onyx - Wi-Fi Turntable (Works with Sonos)",
+        "price": "$385.50",
+        "status": "Pre-Owned",
+        "shipping": 23.1024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Denon DP-2800 Turntable with DP-2000 Motor Base & Plinth Only",
+        "price": "$225.00",
+        "status": "Pre-Owned",
+        "shipping": 136.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player Bluetooth Vintage 3-Speed Portable Suitcase Turntables",
+        "price": "$49.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "M49 Blue Vinyl Record Player Turntable Bluetooth 3 Speed Built-in Speakers Retr",
+        "price": "$33.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "For Technics SLD2 3200 B2 D3 SL-220 Other Turntable Dust Cover Repair Tab Hinges",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Lenco L75 , L70 , L77 , L78 Turntable Ceramic Bearing & Thrust Pad Upgrade Kit",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "4PCS For Pioneer Turntable Replacement Feet PL-512/ 514 /516 /518 /540 /560",
+        "price": "$45.69",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "For Pioneer PL-512/ 514 /516 /518 /540 /560 Turntable Replacement Feet 4PCS",
+        "price": "$45.69",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Insignia- Bluetooth Stereo Turntable - Black",
+        "price": "See price",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 126
+    },
+    {
+        "name": "Audio-Technica AT-LP70X Automatic Turntable (Black/Grey)",
+        "price": "$269.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR42D-PA Lancaster Turntable Bluetooth Record Player - Open Box Savings!",
+        "price": "$89.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player with Speakers Vintage Turntable  Vinyls Records Belt-Drive",
+        "price": "$50.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP120-USB Direct-Drive Professional Turntable (USB and Analog)",
+        "price": "$350.00",
+        "status": "Open Box",
+        "shipping": 16.55,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SYSTEMDEK  IIX  TURNTABLE..SUMIKO MMT TONEARM...ADC VLM III..NO RESERVE",
+        "price": "$300.00",
+        "status": "Parts Only",
+        "shipping": 85.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "4PCS For Pioneer Turntable Replacement Feet PL-512/ 514 /516 /518 /540 /560",
+        "price": "$37.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable Replacement Feet 4PCS For Pioneer PL-512/ 514 /516 /518 /540 /560",
+        "price": "$37.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dayton Audio TT-1BTW Belt Drive Turntable with USB, Bluetooth,Audio Technica AT-",
+        "price": "$279.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Vtg Sansui SR-838 Direct Drive Turntable Original SV-43 Cartridge, SN-43 Stylus",
+        "price": "$499.99",
+        "status": "Parts Only",
+        "shipping": 65.84,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "JM-106 2 Speed Belt Drive Bluetooth Turntable Record Player w/ Audio Technica",
+        "price": "$59.99",
+        "status": "Pre-Owned",
+        "shipping": 29.8324,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Stave Record Player - Walnut/Gold",
+        "price": "$174.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Technics SL-B205 Frequency Generator Servo Automatic Turntable Silver 33/45RPM",
+        "price": "$64.65",
+        "status": "Parts Only",
+        "shipping": 23.08,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Denon DP-50M Direct Drive Record Player Turntable System Untested",
+        "price": "$310.00",
+        "status": "Parts Only",
+        "shipping": 63.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance RT85 Reference Turntable with Record Weight and Vinyl Cleaning Kit",
+        "price": "$607.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony Servo Lock/ Fully Automatic Stereo Turntable System PS-FL1 - Read",
+        "price": "$119.99",
+        "status": "Pre-Owned",
+        "shipping": 14.892,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "M49 White Vinyl Record Player Turntable Bluetooth 3 Speed Built-in Speakers Retr",
+        "price": "$33.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola VTA-74-WLN Eastwood II 3-Speed Bluetooth Record Player W/Audio-Technica",
+        "price": "$140.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica - AT-LP70X-BZ Fully Automatic Belt-Drive Turntable - Black/bronze",
+        "price": "$249.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 61
+    },
+    {
+        "name": "Teac: TN-180BT Semi-Automatic Turntable w/ Bluetooth - Cherry",
+        "price": "$239.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LUXMAN PD444 Turntable. Works On Both Speeds. Has Issues.  100 Volt Version.",
+        "price": "$1,200.00",
+        "status": "Pre-Owned",
+        "shipping": 120.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jensen JTA-230 3-Speed Stereo Turntable Record Player Built-In Speakers & USB",
+        "price": "$49.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Brighton Record Player Turntable Bluetooth 3-Speed RCA Out",
+        "price": "$49.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Brighton Bluetooth Record Player \u2013 3-Speed Turntable, Built-in Speakers",
+        "price": "$27.49",
+        "status": "Open Box",
+        "shipping": 10.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Retrolife HQ-KZ006 High-Tech Belt-Driven Turntable System Red New In Box",
+        "price": "$109.49",
+        "status": "Brand New",
+        "shipping": 10.33,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mirrored Turntable Stylus Alignment Protractor \u2013 Eliminate Tracking Errors, Redu",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 65
+    },
+    {
+        "name": "Belt Drive Turntable with Bluetooth Connectivity, Built-in Phono Pre-amp, USB Di",
+        "price": "$186.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica Stereo Turntable Black 33.3RPM 45RPM with The Black Keys Slipmat",
+        "price": "$69.99",
+        "status": "Pre-Owned",
+        "shipping": 24.93,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1 By One High Fidelity Belt Drive Turntable",
+        "price": "$149.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Music Hall MMF 3.3 HiFi Turntable with Premium Upgrades",
+        "price": "$749.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 20
+    },
+    {
+        "name": "Victrola 370B 7-in-1 Nostalgic Belt Drive Turntable With USB Encoding [CJ92]",
+        "price": "$89.99",
+        "status": "Pre-Owned",
+        "shipping": 9.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola T1 Premium Vinyl Stream Bluetooth Turntable VPT-1000 - BAD NEEDLE",
+        "price": "$74.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "1 by One Classic Wooden Turntable Open Box Belt Drive Bluetooth Vinyl Mp3 Record",
+        "price": "$94.99",
+        "status": "Open Box",
+        "shipping": 41.5,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP70XBT Automatic Belt-Drive Turntable Bluetooth Black Silver",
+        "price": "$299.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance RT85N Reference HiFi Turntable, Nagaoka MP-110 Cartridge, Isolation Base",
+        "price": "$687.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP120XBT Direct-Drive Turntable (w/ Bluetooth, USB)",
+        "price": "$349.00",
+        "status": "Pre-Owned",
+        "shipping": 69.28,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Transparent: Transparent Turntable w/ Bluetooth Black (TT-B)",
+        "price": "$1,300.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Cruiser Plus Portable Turntable with Bluetooth In/Out - Basketweave",
+        "price": "$44.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "vinyl record player vintage",
+        "price": "$100.00",
+        "status": "Pre-Owned",
+        "shipping": 19.11,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Music Hall US-1 High-Fidelity Belt-Drive Turntable - Damaged Box",
+        "price": "$224.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victor Lakeshore 5-in-1 Hybrid Bluetooth Turntable System",
+        "price": "$34.98",
+        "status": "Open Box",
+        "shipping": 18.41,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Boytone BT-24MB Bluetooth Classic Record Player Turntable with CD USB SD AM/FM",
+        "price": "$179.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Technics SL-Q350 Fully Automatic Quartz Direct Drive Turntable.  Tested.",
+        "price": "$249.94",
+        "status": "Pre-Owned",
+        "shipping": 19.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Kenwood Full Automatic Turntable Kd-491f Tested Works",
+        "price": "$65.00",
+        "status": "Pre-Owned",
+        "shipping": 19.6524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Mercury Turntable with Bluetooth In/Out - Cream Croc",
+        "price": "$49.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable Yamaha  P-751 Quartz Direct Drive Full Automatic",
+        "price": "$79.99",
+        "status": "Parts Only",
+        "shipping": 18.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "GENUINE Audio-Technica AT-VM95E Cartridge with TECHNICS style Black Headshell",
+        "price": "$59.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 27
+    },
+    {
+        "name": "Mirrored Turntable Stylus Alignment Protractor \u2013 Eliminate Tracking Errors, Redu",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 65
+    },
+    {
+        "name": "1 by ONE High Fidelity Belt Drive Turntable With Built-In Speakers Vinyl Player",
+        "price": "$149.99",
+        "status": "Open Box",
+        "shipping": 40.31,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola VTA-74-WLN Eastwood II 3-Speed Bluetooth Record Player W/Audio-Technica",
+        "price": "$52.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 131
+    },
+    {
+        "name": "Sony Servo Lock/ Fully Automatic Stereo Turntable System PS-FL1 - Read",
+        "price": "$119.99",
+        "status": "Pre-Owned",
+        "shipping": 14.892,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Record Player Turntable with Stereo Speaker, LP Vinyl to MP3 Converter",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 51
+    },
+    {
+        "name": "Vtg Sansui SR-838 Direct Drive Turntable Original SV-43 Cartridge, SN-43 Stylus",
+        "price": "$499.99",
+        "status": "Parts Only",
+        "shipping": 65.84,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-SB727-WH Sound Burger Portable Bluetooth Turntable White [NEW]",
+        "price": "$155.00",
+        "status": "Brand New",
+        "shipping": 12.66,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Retrolife HQ-KZ006 High-Tech Belt-Driven Turntable System Red New In Box",
+        "price": "$109.49",
+        "status": "Brand New",
+        "shipping": 10.33,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP120XBT-USB Wireless Direct Drive Turntable with Bluetooth",
+        "price": "$449.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jensen JTA-460 Stereo Turntable Black USB SD AM/FM Remote 33/45/78 RPM Headphone",
+        "price": "$145.00",
+        "status": "Open Box",
+        "shipping": 19.11,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "U22270 Philips AF829 hifi Direct Control Turntable TESTEDWORKING G2U",
+        "price": "$180.00",
+        "status": "Pre-Owned",
+        "shipping": 12.94,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley 1950'S Style Stack-O-Matic Traveler 33/45/78RPM Turntable (CR89) WORKS",
+        "price": "$225.00",
+        "status": "Pre-Owned",
+        "shipping": 61.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Large Round Mid Century Record Player Stand with Charging Station USB Ports",
+        "price": "$163.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Brighton Record Player Turntable Classic Vinyl Bluetooth 3-Speed RCAout",
+        "price": "$48.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Record Player with Stereo Speakers Turntable for Vinyl to MP3",
+        "price": "$43.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Yamaha YP-700C Belt Drive Record Player Maintained 100V 50/60Hz Excellent",
+        "price": "$355.00",
+        "status": "Pre-Owned",
+        "shipping": 70.0,
+        "free_returns": true,
+        "items_sold": 50
+    },
+    {
+        "name": "Stranger Things WSQK Record Player",
+        "price": "$88.50",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TechPlay ODC107BT , Bluetooth Connection, 3-Speed Turntable FM radio",
+        "price": "$29.95",
+        "status": "Brand New",
+        "shipping": 9.952,
+        "free_returns": false,
+        "items_sold": 370
+    },
+    {
+        "name": "Jensen JTA-230 3-Speed Stereo Turntable Record Player Built-In Speakers & USB",
+        "price": "$49.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Magnavox Micromatic Turntable AM/FM Stereo Receiver Combo Power Transistor Video",
+        "price": "$187.00",
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Technics SL-BD20D Turntable DC Servo Semi Automatic Works Needs Needle",
+        "price": "$80.00",
+        "status": "Pre-Owned",
+        "shipping": 52.2,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NIB Victrola Automatic BT Bluetooth Newest 2024 Model VPT-800 Record Player",
+        "price": "$79.99",
+        "status": "Open Box",
+        "shipping": 17.49,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Automatic Turntable",
+        "price": "$181.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 44
+    },
+    {
+        "name": "JVC QL-A2 DIRECT DRIVE FG SERVO TURNTABLE AUTO-RETURN",
+        "price": "$0.99",
+        "status": "Pre-Owned",
+        "shipping": 46.37,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Electrohome Vinyl Record Player Belt-Drive Turntable, Built-in Preamp, Auto-Stop",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Brighton Record Player Turntable Bluetooth 3-Speed RCA Out",
+        "price": "$66.29",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 585
+    },
+    {
+        "name": "Uimoso Record Player Stand 2 Tiers Wooden Turntable End Table 3 Cabinets Storage",
+        "price": "$62.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 50
+    },
+    {
+        "name": "Jensen JTA-475 3-Speed Stereo Turntable with CD System, Cassette and AM/FM Stere",
+        "price": "$146.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage SONY Automatic Turntable Record Player PS-LX210 Direct Drive",
+        "price": "$99.00",
+        "status": "Pre-Owned",
+        "shipping": 30.96,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LP&No.1 Retro Belt-Drive Turntable  Forest Green with Speakers (No Dust Cover)",
+        "price": "$43.79",
+        "status": "Open Box",
+        "shipping": 10.33,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Record Player White, Belt Drive, 3 Speeds, Headphone Jack",
+        "price": "$35.00",
+        "status": "Brand New",
+        "shipping": 13.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2-Speed Belt-Drive Automatic Turntable, Bluetooth, USB, AT-VM95E Cartridge",
+        "price": "$259.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Vintage 3-Speed Bluetooth Vinyl Turntable Belt Driven Suitcase",
+        "price": "$45.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 332
+    },
+    {
+        "name": "Mitsubishi DP-EC8 Quartz Lock Turntable",
+        "price": "$370.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "AT3600L Dynamic Turntable  Cartridge For Audio-Technica Includes Hardware. Boxed",
+        "price": "$18.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 398
+    },
+    {
+        "name": "1 by ONE High Fidelity Belt Drive Turntable With Built-In Speakers Vinyl Player",
+        "price": "$147.89",
+        "status": "Brand New",
+        "shipping": 16.37,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Digitnow",
+        "price": "$49.99",
+        "status": "Pre-Owned",
+        "shipping": 6.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance IB40 Turntable Isolation Base Anti-Vibration Wood Platform, Bubble Level",
+        "price": "$149.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Eastwood Signature Bluetooth Record Player Turntable",
+        "price": "$43.99",
+        "status": "Pre-Owned",
+        "shipping": 13.81,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony PS-LX300USB Stereo Turntable - Excellent-Fully Automatic Phono - Tested",
+        "price": "$84.50",
+        "status": "Pre-Owned",
+        "shipping": 23.9,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio Technica AT-PL50 Full Auto Belt Drive Turntable new - no box or  manual",
+        "price": "$120.00",
+        "status": "Open Box",
+        "shipping": 30.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "360 Degree Rotating Turntable 12 Inch, 350lbs Capacity for Photography, Black",
+        "price": "$109.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fosi Audio Box X5 Phono Preamp for MM&MC Cartridge Turntable 4-Level Gain Solid",
+        "price": "$109.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable Belt Drive Vinyl Record Player with Bluetooth Connectivity Built in",
+        "price": "$113.99",
+        "status": "Brand New",
+        "shipping": 2.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Revopoint MetroY PRO 3D Laser Scanner For 3D Print 34Line Wireless Handheld Scan",
+        "price": "$1,495.15",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 45
+    },
+    {
+        "name": "Vintage sansui record player",
+        "price": "$380.00",
+        "status": "Pre-Owned",
+        "shipping": 50.21,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "AT3600L Dynamic Turntable  Cartridge For Audio-Technica Includes Hardware. Boxed",
+        "price": "$18.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 398
+    },
+    {
+        "name": "ION TTUSB05XL USB TURNTABLE/VINYL ARCHIVER W/ LINE INPUT",
+        "price": "$59.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Professional Drive Belts For Record Player Turntable 4 Pack",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player 9-in-1 Bluetooth Turntable CD Cassette Player FM/AM Radio",
+        "price": "$176.57",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "The best 100% Synthetic Oil For Lubricating Technics Turntables!!",
+        "price": "$13.34",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 657
+    },
+    {
+        "name": "Turntable Belt for Thorens TD-160     T2115",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 259
+    },
+    {
+        "name": "Record Player Vintage 3-Speed Bluetooth Vinyl Turntable Belt Driven Suitcase",
+        "price": "$45.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 332
+    },
+    {
+        "name": "NEW SOL Turntable Motor by Schiit Audio Outboard AC Synchronous (400 available)",
+        "price": "$49.99",
+        "status": "Brand New",
+        "shipping": 11.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Electric 360\u00b0 Turntable Rotary Table Two-Way Display Stand Remote Control 16.5\"",
+        "price": "$78.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Mirror Electric Rotary Display Table 10KG Load Jewelry Crafts Electric Turntable",
+        "price": "$33.30",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Volksun Record Player Turntable.",
+        "price": "$65.00",
+        "status": "Pre-Owned",
+        "shipping": 17.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Universal 2g Anti-Skate Bias Weight with Nylon Wire for Pro-ject Turntables,SME",
+        "price": "$7.97",
+        "status": "Brand New",
+        "shipping": 5.99,
+        "free_returns": false,
+        "items_sold": 120
+    },
+    {
+        "name": "Canaro Kit for Rega Turntables: Subplatter, 3333Pulley, 2 Silc Belts,  ZrO2 Ball",
+        "price": "$179.99",
+        "status": "Brand New",
+        "shipping": 39.69,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Super Record Wash 32Oz [New Vinyl Accessory]",
+        "price": "$30.03",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 201
+    },
+    {
+        "name": "Yamaha YP-400 Belt Drive Record Player Already Maintained 100V 50/60Hz Excellent",
+        "price": "$289.00",
+        "status": "Pre-Owned",
+        "shipping": 50.0,
+        "free_returns": true,
+        "items_sold": 21
+    },
+    {
+        "name": "Technics Dust Cover with Hinge TTFA0572 for SL-1200 Turntables Gray Type New",
+        "price": "$122.98",
+        "status": "Brand New",
+        "shipping": 29.98,
+        "free_returns": true,
+        "items_sold": 694
+    },
+    {
+        "name": "ANGELS HORN Vinyl Record Player, Bluetooth Turntable with Built in Speakers",
+        "price": "$149.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR31D-WA Companion Radio - Walnut Open Box Savings!",
+        "price": "$49.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 21
+    },
+    {
+        "name": "Audio-Technica AT-LP70XBT Belt-drive Turntable with AT-SP65XBT Portable Stereo",
+        "price": "$398.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Premiere Turntable System T1 VTTS-1-ESP - ESPRESSO New Open Box *LOOK*",
+        "price": "$139.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Walthers Cornerstone 933-2616 130' Motorized Turntable With DCC",
+        "price": "$225.00",
+        "status": "Pre-Owned",
+        "shipping": 16.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Styl\u00ae VS-M-001 12 Inch Anti Static Cork Turntable Mat - Less Vibration - N",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 53
+    },
+    {
+        "name": "Numark TT USB 2-Channel USB Enabled Belt Drive Turntable",
+        "price": "$39.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "WB06X10625 Microwave Support Roller Ring, Replacement for GE Models JVM6175SF1SS",
+        "price": "$18.51",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "the Quincy 6-In-1 Bluetooth Record Player & Multimedia Center with Built-In Spea",
+        "price": "$192.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject Wallmount It 1 Turntable Wall-Mount Shelf - Walnut",
+        "price": "$499.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Rotating Display Stand with Type-C 360 Motorized Spinning Turntable Adjustable",
+        "price": "$22.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Anti-Static Carbon Fiber Record Cleaning Brush",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-SB727-WH Sound Burger Portable Bluetooth Turntable White [NEW]",
+        "price": "$155.00",
+        "status": "Brand New",
+        "shipping": 12.66,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Stranger Things Victrola WSQK Record Player With Speakers Slipmat NEW In Box",
+        "price": "$97.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Vinyl Record Cleaning Kit with 2-in-1 Anti-Static Record & Stylus Brush",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Realistic LAB-440 Direct Drive Fully Automatic Turntable",
+        "price": "$285.00",
+        "status": "Pre-Owned",
+        "shipping": 40.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Eastwood Signature Bluetooth Record Player Turntable",
+        "price": "$43.99",
+        "status": "Pre-Owned",
+        "shipping": 13.81,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Cleaning Kit 9-in-1 \u2013 Anti-Static Cleaner, Velvet & Carbon Fiber Br",
+        "price": "$30.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 149
+    },
+    {
+        "name": "MUSITREND MT316W 3 Speed Turntable - Tested Working Condition.  Local pickup",
+        "price": "$26.00",
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Stream Pearl VPT-3000-WSL Wireless Turntable Works with Sonos",
+        "price": "$1,000.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10-in-1 Bluetooth Record Player Multifunctional 3-Speed Turntable Vinyl Record",
+        "price": "$109.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Bags Unlimited S10W - 10 Inch 78 RPM Paper Record Sleeves - 50 Count (White) [Ne",
+        "price": "$26.11",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 251
+    },
+    {
+        "name": "Lid Hinges for many OEM DJ Turntables Sony, Reloop, Stanton, Citronix etc- PAIR",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 136
+    },
+    {
+        "name": "Sony PS-LX310BT Bluetooth Belt Drive Turntable, Black, 33.3/45RPM, RCA Output",
+        "price": "$300.00",
+        "status": "Pre-Owned",
+        "shipping": 26.47,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Kenwood KD-4100R Direct Drive Full-Automatic Turntable Silver 33/45RPM RCA",
+        "price": "$95.00",
+        "status": "Parts Only",
+        "shipping": 107.65,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Phono Preamp with RIAA EQ for MM Turntables/Vinyl Record Players",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Brighton Record Player Turntable Bluetooth 3-Speed RCA Out",
+        "price": "$77.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP60X Fully Automatic Turntable - Tested - New Stylus",
+        "price": "$130.00",
+        "status": "Pre-Owned",
+        "shipping": 30.02,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player Wireless Turntable Bluetooth 3-Speed Portable  Suitcase RCA",
+        "price": "$47.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 685
+    },
+    {
+        "name": "Uimoso Record Player Stand 2 Tiers Wooden Turntable End Table 3 Cabinets Storage",
+        "price": "$62.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 50
+    },
+    {
+        "name": "ION Luxe LP \u2122 WIRELESS BLUETOOTH-ENABLED TURNTABLE (Open Box, New Condition)",
+        "price": "$34.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola WSQK Record Player",
+        "price": "$97.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 192
+    },
+    {
+        "name": "NEW! Lowest Price replacement TK-24 Cart SLED for Dual Turntables TK14 / TK24",
+        "price": "$14.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 310
+    },
+    {
+        "name": "Audio-Technica AT-SB727 Yellow Color SOUND BURGER Record Player Turntable NEW",
+        "price": "$198.96",
+        "status": "Brand New",
+        "shipping": 40.0,
+        "free_returns": true,
+        "items_sold": 121
+    },
+    {
+        "name": "Vintage United Audio Dual 1019 Turntable. Tested and Working. Needs Cartridge. \ufffc",
+        "price": "$254.99",
+        "status": "Pre-Owned",
+        "shipping": 96.6,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Teac: Washi Paper Anti-Static Turntable Sheet",
+        "price": "$39.99",
+        "status": "Brand New",
+        "shipping": 9.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TechPlay ODC107BT , Bluetooth Connection, 3-Speed Turntable FM radio",
+        "price": "$29.95",
+        "status": "Brand New",
+        "shipping": 9.952,
+        "free_returns": false,
+        "items_sold": 370
+    },
+    {
+        "name": "Hudson Hi-Fi Platinum Silicone Hemisphere Non-Skid Isolation Feet w/ Adhesive",
+        "price": "$32.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 31
+    },
+    {
+        "name": "Master Airbrush Portable Hobby Paint Spray Booth Kit, Dual Exhaust Fans, Lights",
+        "price": "$119.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 165
+    },
+    {
+        "name": "Vinyl Record 3 Speed Player Wireless Bluetooth Turntable with Built-in Speakers",
+        "price": "$43.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Vinyl Record Turntable Portable 3 Speed Belt Drive Lavender Design",
+        "price": "$49.99",
+        "status": "Brand New",
+        "shipping": 40.1,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "High Fidelity Record Player, All-In-One Turntable with Built in Speakers Phono P",
+        "price": "$302.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Stand with Vinyl Storage Cabinet with Charging Station & USB Ports",
+        "price": "$210.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "AT3600L Dynamic Turntable  Cartridge For Audio-Technica Includes Hardware. Boxed",
+        "price": "$18.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 398
+    },
+    {
+        "name": "Record Player Stand with Charging Station, Turntable Stand with Storage Cabin...",
+        "price": "$71.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "*MINT CONDITION* Victrola Stream Turntable Works with Sonos VPT-3000 *OPEN BOX*",
+        "price": "$494.99",
+        "status": "Open Box",
+        "shipping": 107.65,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola The Kingfield Bluetooth Record Player Shelf System with Bookshelf",
+        "price": "$116.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 13
+    },
+    {
+        "name": "Turntable Record Player Wireless Output Vinyl Players Aluminium Platter and T...",
+        "price": "$107.99",
+        "status": "Open Box",
+        "shipping": 15.08,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Liquid Bearings, BEST 100%-synthetic oil for Pro-Ject or any turntable, READ!!",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 92
+    },
+    {
+        "name": "LP& No.1 Vintage Turntable Model: LPSC-026.  Brand New.  Sealed Box",
+        "price": "$30.00",
+        "status": "Brand New",
+        "shipping": 23.24,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Vinyl Record Cleaning Kit with Anti-Static, Velvet & Stylus Brushes",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Boytone BT-24MB Bluetooth Classic Style Record Player Turntable with AM/FM",
+        "price": "$145.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 12
+    },
+    {
+        "name": "Pioneer SH Rotor DC Servo Auto Return PL202AZ Turntable Record Player AS G2U",
+        "price": "$70.04",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "STANTON ST-100 VINTAGE CLASSIC DIGITAL TURNTABLE, RECORD PLAYER, NICE CONDITION",
+        "price": "$836.50",
+        "status": "Pre-Owned",
+        "shipping": 48.46,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Belt Drive Turntable with Bluetooth Connectivity, Built-in Phono Pre-amp, USB Di",
+        "price": "$170.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Journey+ Bluetooth Suitcase Record Player- Black",
+        "price": "$27.96",
+        "status": "Open Box",
+        "shipping": 14.88,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fons CQ-30 Turntable, Dustcover, Works Good, No Tonearm",
+        "price": "$275.00",
+        "status": "Pre-Owned",
+        "shipping": 90.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Fully Automatic Bluetooth Turntable VPT-800, Black  - NEEDS BELT READ",
+        "price": "$80.74",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject Counterweight for Essential Turntables - 75g (1940-875-001)",
+        "price": "$23.00",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victor Lakeshore 5-in-1 Hybrid Bluetooth Turntable System",
+        "price": "$34.98",
+        "status": "Open Box",
+        "shipping": 18.41,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Bamboo 4 Compartment Lazy Susan Turntable with Dividers Light Yellow -",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 137
+    },
+    {
+        "name": "Fluance Phono Preamp with RIAA EQ for MM Turntables/Vinyl Record Players",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "The DJ's Secret Weapon: 3-Piece Alignment Kit \u2013 VTA Block, Stylus Scale, Tonearm",
+        "price": "$31.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Michell: Record Clamp - Standard Fit",
+        "price": "$79.95",
+        "status": "Brand New",
+        "shipping": 9.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "12 Inch Turntable Mat, Slipmat for Vinyl LP Record Player, anti Static Turnta...",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "KENWOOD KP-2022A Belt Drive Turntable-Tested Working Sold As Is",
+        "price": "$199.99",
+        "status": "Pre-Owned",
+        "shipping": 24.75,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "MT320RL40P 32cm Electric Turntable Smart Remote Rotating Platform",
+        "price": "$49.99",
+        "status": "Open Box",
+        "shipping": 7.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject E1 Phono Plug & Play Turntable with Built-in Phono Satin Walnut (Demo)",
+        "price": "$330.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1 by ONE Belt Drive Turntable with Bluetooth Connectivity, Built-in Phono Pre-am",
+        "price": "$204.25",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola VPT-3000 Stream Pearl 2 Speed Turntable (WORKS/INCOMPLETE/READ)",
+        "price": "$249.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "1 by ONE Vinyl Record Player with Bluetooth Input, All-in- One Turntable",
+        "price": "$340.00",
+        "status": "Brand New",
+        "shipping": 12.72,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Clasico Toca Discos Consola Rocola Port\u00e1til Bluethooth Regalo De Navidad",
+        "price": "$52.76",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage JVC AL-A151BK Manual Cue Belt Drive Turntable Auto-Return Play Tested++",
+        "price": "$75.00",
+        "status": "Pre-Owned",
+        "shipping": 15.4524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Dean 3-Speed Bluetooth Record Player Natural With Legs CR6237A-NA",
+        "price": "$159.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ION PROFILE LP USB Turntable Turn Records into MP3s - Missing Cables",
+        "price": "$24.99",
+        "status": "Pre-Owned",
+        "shipping": 10.66,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Rotating Turntable. Runs on USB cord or 3 AA Batteries.",
+        "price": "$15.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Reloop Turn 5 Direct Drive HiFi Turntable System PRO Audio",
+        "price": "$899.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Rare HITACHI HT-L3 Front Loading Automatic Turntable - Linear Tracking - WORKING",
+        "price": "$360.71",
+        "status": "Pre-Owned",
+        "shipping": 29.15,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Stand, Vinyl Record Storage with Fluted Sliding Doors",
+        "price": "$170.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Teac: TN-180BT Semi-Automatic Turntable w/ Bluetooth - Matte Black",
+        "price": "$239.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola VTA-74-OAK 3-Speed Belt Driven Eastwood II Oak Turntable Bluetooth NEW",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 19.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Bluetooth Record Player VTA-240B-ESP-SDF",
+        "price": "$80.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Gemini Sound TT-900 - Classic Black 3-Speed Turntable with Pitch Adjustment",
+        "price": "$149.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "All-in-One Vintage Turntable with Wireless Playback & Anti-Vibration Design",
+        "price": "$61.18",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR6042A-WA Scout 3-Speed Bluetooth Turntable Record Player - Walnut",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 7
+    },
+    {
+        "name": "Crosley CR31D-WA Companion Radio - Walnut Open Box Savings!",
+        "price": "$49.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 21
+    },
+    {
+        "name": "House of Marley Stir It Up Turntable Record Player Brown/Black/Silver",
+        "price": "$110.00",
+        "status": "Pre-Owned",
+        "shipping": 33.29,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Alto Shelf System CR7019A-WA With 3 Speed Turntable + Built-in Bluetooth",
+        "price": "$149.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Yamaha Natural Sound Stereo Turntable Record Player P-09 Made In Japan",
+        "price": "$140.45",
+        "status": "Pre-Owned",
+        "shipping": 68.86,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mitsubishi DP-EC8 Quartz Lock Turntable",
+        "price": "$370.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject 2 Xperience Classic Turntable Olive Wood Carbon Arm \u2013 Needs Work",
+        "price": "$499.00",
+        "status": "Pre-Owned",
+        "shipping": 21.96,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Micro seiki turntable BL-77 31cm flatter and bearing for DIYer",
+        "price": "$385.00",
+        "status": "Pre-Owned",
+        "shipping": 95.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Monument 8-in-1 Graphite Music Center with 3-Speed Turntable & Dual Blue Tooth!",
+        "price": "$149.95",
+        "status": "Brand New",
+        "shipping": 37.06,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "45 RPM Vinyl Record Adapter, 7 Inch Center Hole Insert for Turntables, Red (3)",
+        "price": "$2.97",
+        "status": "Brand New",
+        "shipping": 4.99,
+        "free_returns": false,
+        "items_sold": 33
+    },
+    {
+        "name": "Audio-Technica  AT85EP Elliptical Phonograph Cartridge for P-Mount Turntables",
+        "price": "$42.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 56
+    },
+    {
+        "name": "Stranger Things Victrola WSQK Record Player With Speakers Slipmat NEW In Box",
+        "price": "$97.50",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "LOT OF 18 - BARBERSHOP QUARTET - RECORD LP'S - VERY GOOD CONDITION -",
+        "price": "$29.85",
+        "status": "Pre-Owned",
+        "shipping": 17.22,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Boytone BT-28SPS Bluetooth Record Player Turntable, AM/FM, Cassette, CD Player",
+        "price": "$179.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 29
+    },
+    {
+        "name": "American Audio Pro-Scratch 2  CD Player Digital Turntable Controller. Tested!",
+        "price": "$250.00",
+        "status": "Pre-Owned",
+        "shipping": 20.69,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Voyager Bluetooth Vinyl Player w/Speakers, Audio Turntable",
+        "price": "$119.76",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Electric 360\u00b0 Turntable Rotary Table Two-Way Display Stand Remote Control 16.5\"",
+        "price": "$78.59",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Electric 360\ufffd\ufffd Turntable Rotary Table Two-Way Display Stand Remote Control 16.5\"",
+        "price": "$78.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TE-2019 Model 6-in-1 Record Player Turntable",
+        "price": "$44.66",
+        "status": "Brand New",
+        "shipping": 8.83,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "The best 100% Synthetic Oil for lubricating your Turntables PERIOD",
+        "price": "$13.34",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 177
+    },
+    {
+        "name": "PIONEER PL-100 PL-200 PL-250 PL-300 PL-400 Turntable Dampers PEB-163",
+        "price": "$26.99",
+        "status": "Brand New",
+        "shipping": 4.88,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Byron Statics Record Player Portable Turntable with Power Adapter. Works Great",
+        "price": "$0.99",
+        "status": "Pre-Owned",
+        "shipping": 15.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica Consumer AT-HS1 Universal Turntable Headshell",
+        "price": "$27.95",
+        "status": "Brand New",
+        "shipping": 4.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW NOS Telefunken 38L EV 411S Germany 45 RPM TURNTABLE RECORD ADAPTER Changer",
+        "price": "$9.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE PART - DUST COVER HINGE",
+        "price": "$16.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 73
+    },
+    {
+        "name": "PHONOGRAPH NEEDLE TURNTABLE STYLUS for SONY PS-LX250H PSLX350 PSLX200 LX350H",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Solar Battery Powered Showcase 360\u00b0 Rotating Turntable Jewelry Display Stand",
+        "price": "$8.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 158
+    },
+    {
+        "name": "Dual 1249 Turntable Service Manual - OEM",
+        "price": "$23.65",
+        "status": "Pre-Owned",
+        "shipping": 6.47,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Electric 360\u00b0 Turntable Rotary Table Two-Way Display Stand Remote Control 16.5\"",
+        "price": "$75.21",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Apple iPod Classic Video 5th 30GB 60GB 80GB 128GB 256GB Modded NEW Battery",
+        "price": "$382.85",
+        "status": "Open Box",
+        "shipping": 9.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10KG Motorized Base Rotating Visualizer Rechargeable Mirror Turntable Shooting",
+        "price": "$33.20",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Slick Liquid Lube Bearings 100% Synthetic Oil for Turntables & Tonearms w/ Shure",
+        "price": "$9.96",
+        "status": "Brand New",
+        "shipping": 5.82,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Teac: TN-180BT Semi-Automatic Turntable w/ Bluetooth - Cherry",
+        "price": "$239.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "CHUO DENSHI TURNTABLE CARTRIDGE FOR MANY LOW COST TURNTABLES & RECORD CHANGERS",
+        "price": "$9.95",
+        "status": "Brand New",
+        "shipping": 3.75,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Bluetooth Vintage Vinyl Record Player Belt-Driven 3-Speed Turntable Aux Input",
+        "price": "$34.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 44
+    },
+    {
+        "name": "Vintage Pioneer KNH-063 turntable platter - with rubber mat - from PL-12D",
+        "price": "$25.00",
+        "status": "Parts Only",
+        "shipping": 8.83,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "FOR MOST DUAL TURNTABLES  NEW COMPLETE  GENUINE ORTOFON OMEGA  CARTRIDGE/STYLUS",
+        "price": "$46.99",
+        "status": "Brand New",
+        "shipping": 4.95,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "PYLE PRO PP999 Phono Turntable Pre-Amplifier",
+        "price": "$18.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 158
+    },
+    {
+        "name": "Liquid Bearings, BEST 100%-synthetic oil for Pro-Ject or any turntable, READ!!",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 92
+    },
+    {
+        "name": "Tonearm Latch for Pioneer PL-518 Arm Rest \u2013 Fits PL-112D, PL-115, PL-117D",
+        "price": "$14.99",
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "New Speed Control Potentiometer for Pioneer PL-55x PL-51 PL-71 Turntable",
+        "price": "$5.00",
+        "status": "Brand New",
+        "shipping": 6.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "2Pcs Record Player Slip Mat,Felt Slipmats For Vinyl Turntable,Record Player M...",
+        "price": "$10.01",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cork Turntable Mat/3mm Thick for Better Sound Support on 11.8 Inches Vinyl LP...",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "8inch Rotating Swivel Stand Turntable with Steel Ball Bearings, Black 2 Pcs",
+        "price": "$20.91",
+        "status": "Brand New",
+        "shipping": 3.86,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2Pcs 7 inch Rotating Swivel Stand Turntable with Steel Ball Bearings Clear",
+        "price": "$18.13",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "djay Pro 7\" Control Vinyl (Black Single)",
+        "price": "$23.00",
+        "status": "Brand New",
+        "shipping": 10.2224,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pyle Phono Turntable Preamp Mini Stereo Preamplifier RCA LOW NOISE 12V DC PP555",
+        "price": "$22.40",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TWO TURNTABLES & A MICROPHONE DVD NEW",
+        "price": "$7.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Udreamer UD015 Record Player, Vinyl Bluetooth Record player with speakers,",
+        "price": "$61.20",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 11
+    },
+    {
+        "name": "Turntable Belt for PIONEER PL-X21K PL-211AZ PL-210   PL-210AZ  Turntable 21.4",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 90
+    },
+    {
+        "name": "Dust Cover Hinge Turntable Parts Fits Kenwood,Linn,Realistic,Sansui,Sony,Yamaha",
+        "price": "$8.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 812
+    },
+    {
+        "name": "The absolute best 100% Synthetic Oil For Lubricating Technics Turntables!!",
+        "price": "$13.34",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 87
+    },
+    {
+        "name": "Audio-Technica AT-LP60X, AT-LP60XBT Turntables Platter",
+        "price": "$12.48",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "10-Piece Turntable Belt Set, Repair/Replacement, 5 Sizes, Belt-Driven Turntables",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 13
+    },
+    {
+        "name": "Bluetooth Record Player Turntable with Stereo Speaker, LP Vinyl to MP3 Converter",
+        "price": "$196.78",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE NEEDLE STYLUS for Numark TTUSB TT1600 TT1610 TT1625 Groovetool",
+        "price": "$13.05",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 273
+    },
+    {
+        "name": "Clairmont Cable Bang & Olufsen Beogram 5-pin DIN Dual RCA Tonearm Cable Adapter",
+        "price": "$23.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TK-12 Cartridge Holder SLED alignment gauge only for Dual 1019 Turntables",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Brand New Headshell for Straight arm  with Gold Plated Leads New",
+        "price": "$10.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 73
+    },
+    {
+        "name": "Hudson Hi-Fi Acrylic Turntable Mat 1/8\u201d Thick \u2013 11.75\u201d Anti-Static Slipmat with",
+        "price": "$19.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NIB Victrola Automatic BT Bluetooth Newest 2024 Model VPT-800 Record Player",
+        "price": "$79.99",
+        "status": "Open Box",
+        "shipping": 17.49,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Mat 2pcs Turntable Slipmat 12Inch Felt Protective Platter MatAn...",
+        "price": "$12.73",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject Turntable Cleaning Set Basic - Record Brush & Stylus Brush - NEW",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 4.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Technics Style Silver Headshell With OFC Wire Leads! Fits Most Turntables!",
+        "price": "$14.69",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 160
+    },
+    {
+        "name": "TECHPLAY RECORD PLAYER TURNTABLE BLUETOOTH BROADCAST AT3600L NEEDLE GHOST BLACK",
+        "price": "$139.95",
+        "status": "Brand New",
+        "shipping": 22.912,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Phonograph Turntable Stylus Needle Numark Groove Tool TT200 TTUSB TT1650 MKII",
+        "price": "$13.05",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 105
+    },
+    {
+        "name": "Ion Numark Turntable Spindle Adapter for 7\" 45 RPM Vinyl Records Black OR Silver",
+        "price": "$4.78",
+        "status": "Open Box",
+        "shipping": 5.06,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Idler wheel for RCA 45 RPM record changer",
+        "price": "$39.45",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 101
+    },
+    {
+        "name": "2 Clear Plastic 2\" Turntables for Standard size Sankyo Music Box , Scratched!",
+        "price": "$1.99",
+        "status": "New (Other)",
+        "shipping": 7.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Yamaha YP-400 Belt Drive Record Player Already Maintained 100V 50/60Hz Excellent",
+        "price": "$289.00",
+        "status": "Pre-Owned",
+        "shipping": 50.0,
+        "free_returns": true,
+        "items_sold": 21
+    },
+    {
+        "name": "Original Technics SL-220 Turntable Parts: (1) Single Rubber Foot with Spring",
+        "price": "$9.99",
+        "status": "Pre-Owned",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "GENUINE OEM AT-VM95E PHONO CARTRIDGE WITH OEM ELLIPTICAL STYLUS + A FREEBIE!!!",
+        "price": "$57.95",
+        "status": "Brand New",
+        "shipping": 5.5,
+        "free_returns": false,
+        "items_sold": 49
+    },
+    {
+        "name": "Electric Turntable 360 Degree Display 7.87in Rotating Stand For Product Photos",
+        "price": "$26.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "3DMakerpro Handheld 3D Scanner For 3D Printing 0.1mm Accuracy Lynx Premium",
+        "price": "$237.99",
+        "status": "Certified - Refurbished",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 27
+    },
+    {
+        "name": "TechPlay ODC128BT Wood Stereo Record Player Turntable Bluetooth CD Cassette",
+        "price": "$109.95",
+        "status": "Brand New",
+        "shipping": 19.9524,
+        "free_returns": false,
+        "items_sold": 284
+    },
+    {
+        "name": "Boytone BT-22M Bluetooth Record Player Turntable AM/FM Radio Cassette CD USB Rec",
+        "price": "$129.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player 3 Speed Turntable with Bluetooth, Built in Battery",
+        "price": "$49.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Fully Automatic Bluetooth Turntable w Audio Technica ATN3600L Cartridge",
+        "price": "$149.00",
+        "status": "Brand New",
+        "shipping": 49.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio Technica AT-LP3XBT Automatic Wireless Belt Drive Turntable (White)",
+        "price": "$379.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Phonograph Turntable Stylus Needle Numark Groove Tool TT200 TTUSB TT1650 MKII",
+        "price": "$13.05",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 105
+    },
+    {
+        "name": "Ion Numark Turntable Spindle Adapter for 7\" 45 RPM Vinyl Records Black OR Silver",
+        "price": "$4.78",
+        "status": "Open Box",
+        "shipping": 5.06,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "VICTROLA VTA-80 Jackson Bluetooth Stereo - Replacement Remote Control",
+        "price": "$24.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LP& No.1 Vintage Turntable Model: LPSC-026.  Brand New.  Sealed Box",
+        "price": "$30.00",
+        "status": "Brand New",
+        "shipping": 23.24,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "**NEW** Victrola Journey+ Suitcase Record Player Bluetooth Turntable, Gray Linen",
+        "price": "$48.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Yamaha YP-400 Belt Drive Record Player Already Maintained 100V 50/60Hz Excellent",
+        "price": "$289.00",
+        "status": "Pre-Owned",
+        "shipping": 50.0,
+        "free_returns": true,
+        "items_sold": 21
+    },
+    {
+        "name": "Original Technics SL-220 Turntable Parts: (1) Single Rubber Foot with Spring",
+        "price": "$9.99",
+        "status": "Pre-Owned",
+        "shipping": 5.77,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "GENUINE OEM AT-VM95E PHONO CARTRIDGE WITH OEM ELLIPTICAL STYLUS + A FREEBIE!!!",
+        "price": "$57.95",
+        "status": "Brand New",
+        "shipping": 5.5,
+        "free_returns": false,
+        "items_sold": 49
+    },
+    {
+        "name": "Electric Turntable 360 Degree Display 7.87in Rotating Stand For Product Photos",
+        "price": "$26.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Classic HiFi Vinyl Turntable Record Player Audio Technica Cartridge",
+        "price": "$249.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 250
+    },
+    {
+        "name": "Large Round Mid Century Record Player Stand with Charging Station USB Ports",
+        "price": "$163.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Deluxe baby blue portable suitcase turntable and record player",
+        "price": "$28.60",
+        "status": "Pre-Owned",
+        "shipping": 15.85,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley T300A-SI Speed Component Bluetooth Turntable",
+        "price": "$59.90",
+        "status": "Pre-Owned",
+        "shipping": 17.79,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fits for Pitch control Belt Replacement for DUAL models 505 1 2 3 4  Turntables",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 5.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE BELT FOR AUDIO TECHNICA AT-PL50, AT-LP60, AT-LP2D, AT-PL30",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 677
+    },
+    {
+        "name": "Victrola Fully Automatic Bluetooth Turntable VPT-800, Black  - NEEDS BELT READ",
+        "price": "$80.74",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Auralex ISO-Tone Turntable Isolation Platform",
+        "price": "$87.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "PRO SPIN Blue Acrylic Turntable Mat for 12 Vinyl - Antistatic, Noise Reduction",
+        "price": "$27.21",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "CROSLEY CR8005D-TU Cruiser  RECORD PLAYER TURNTABLE CR8005-TU NEW",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 15.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Modern Bluetooth Turntable Espresso VTA-67-ESP",
+        "price": "$32.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NIB Victrola Automatic BT Bluetooth Newest 2024 Model VPT-800 Record Player",
+        "price": "$79.99",
+        "status": "Open Box",
+        "shipping": 17.49,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "12 Inch Rubber Slipmat for Turntables - Universal Platter Mat",
+        "price": "$20.75",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW SOL Turntable Motor by Schiit Audio Outboard AC Synchronous (400 available)",
+        "price": "$49.99",
+        "status": "Brand New",
+        "shipping": 11.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR31D-WA Companion Radio - Walnut Open Box Savings!",
+        "price": "$49.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 21
+    },
+    {
+        "name": "Boytone Bluetooth Record Player Turntable, CD Player, Vinyl, CD,  MP3 Player USB",
+        "price": "$173.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "VTG Akai AP-D2 Direct Drive Turntable Vintage Vinyl Record Player TC150EP Cart.",
+        "price": "$149.00",
+        "status": "Pre-Owned",
+        "shipping": 39.9524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola ITNP-LC1  3 Pack Turntable Replacement Needles for Record Players",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 153
+    },
+    {
+        "name": "2 Pack Record Player Cartridge, Replacement Vinyl Turntable Cartridge Black",
+        "price": "$11.75",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage JVC AL-A151BK Manual Cue Belt Drive Turntable Auto-Return Play Tested++",
+        "price": "$75.00",
+        "status": "Pre-Owned",
+        "shipping": 15.4524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE BELT FOR TECHNICS SL-B300, SL-B303, SL-B1, SL-B2, SL-33, SL-BD22 SL-20",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 655
+    },
+    {
+        "name": "Victrola The Liberty Espresso 8-in-1 Bluetooth Turntable Record Player",
+        "price": "$95.96",
+        "status": "Open Box",
+        "shipping": 16.67,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "BEST 100%-synthetic lubricant for Telefunken or any turntables, PLEASE READ!",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Nice Aiwa PX-E850U  Turntable Record Player System with Manual and Remote WOW !!",
+        "price": "$24.99",
+        "status": "Pre-Owned",
+        "shipping": 18.08,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Digital LCD Cartridge Scale Gauge 0.01g/5.00g Turntable Stylus Force Scale Gauge",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 538
+    },
+    {
+        "name": "OPTONICA RP-4705 Stereo Full Auto Direct Drive Turntable Glass Lid Working Read",
+        "price": "$250.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Harmony VTS1300 Bluetooth 3-Speed Turntable Record Player Natural",
+        "price": "$189.59",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "6 oz Rubber Soft! Softens Record Turntable Tape Recorder Reel Player Idler Wheel",
+        "price": "$17.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 263
+    },
+    {
+        "name": "TE-3008 Full-Size Turntable with Adjustable Counterweight and Bluetooth Output",
+        "price": "$64.89",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE  BELT  REPLACEMENT FOR  TEAC TN-400  *FREE SHIP*",
+        "price": "$17.88",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Mint Green Portable Suitcase Style Turntable Home Audio",
+        "price": "$22.49",
+        "status": "Pre-Owned",
+        "shipping": 8.7924,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cartridge and stylus, needle for Pioneer PLX-1000, PL-518, PL-530, PL-A35, PLX-5",
+        "price": "$36.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 55
+    },
+    {
+        "name": "Turntable Cork Platter Mat, 12in Shockproof Turntable Platter Mat, Grade Impr...",
+        "price": "$16.80",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-SB727-WH Sound Burger Portable Bluetooth Turntable White [NEW]",
+        "price": "$155.00",
+        "status": "Brand New",
+        "shipping": 12.66,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica  AT85EP Elliptical Phonograph Cartridge for P-Mount Turntables",
+        "price": "$42.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 56
+    },
+    {
+        "name": "Tonearm Arm Rest Clip for Pioneer PL-115D PL-518 PLX-1000 Turntable Player",
+        "price": "$14.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 224
+    },
+    {
+        "name": "Record Player Stand w/ Divider Holds 200 Albums Mid-Century",
+        "price": "$73.68",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "LOT OF 18 - BARBERSHOP QUARTET - RECORD LP'S - VERY GOOD CONDITION -",
+        "price": "$29.85",
+        "status": "Pre-Owned",
+        "shipping": 17.22,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "VIBE Sound USB Turntable Vinyl MP3 Audio Record Player Built in Speakers Dj Set",
+        "price": "$45.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE  BELT  REPLACEMENT FOR  TEAC TN-300  *FREE SHIP*",
+        "price": "$17.88",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Teeny Town Tiny Turntable runs on two AAA Batteries",
+        "price": "$13.95",
+        "status": "Brand New",
+        "shipping": 5.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP3XBT AUTOMATIC TURNTABLE BELT (1 NEW BELT) NICE!",
+        "price": "$14.00",
+        "status": "Brand New",
+        "shipping": 4.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2.6g Anti-skate Weight for Music Hall turntables,Pro-ject Turntables,SME30193012",
+        "price": "$7.97",
+        "status": "Brand New",
+        "shipping": 5.99,
+        "free_returns": false,
+        "items_sold": 149
+    },
+    {
+        "name": "Teeny-Tiny Turntable Includes 3 LPs To Play Running Press Mini Records",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 16.31,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Menesia Record Weight Stabilizer, Turntable and Vinyl Weight, black",
+        "price": "$12.65",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player 3-Speed Vinyl Spinner 2 Built-in Stereo Speakers, Headphone Jack",
+        "price": "$53.23",
+        "status": "Brand New",
+        "shipping": 24.16,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Numark TTUSB Record Player Turntable US-Powers On-No Further Testing",
+        "price": "$55.96",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Acrylic Platter Upgrade for Pro-Ject Debut, Evo, T1, 1Xpression, Music Hall MMF,",
+        "price": "$96.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Fully Automatic Bluetooth Turntable w Audio Technica ATN3600L Cartridge",
+        "price": "$149.00",
+        "status": "Brand New",
+        "shipping": 49.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio Technica AT-LPW50BT Bluetooth Manual Belt-Drive Turntable - Rosewood BNIB",
+        "price": "$548.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR66 - Parts",
+        "price": "$44.99",
+        "status": "Parts Only",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player with 2X External Speakers Bluetooth Input Turntable, Belt-Driven 3",
+        "price": "$215.32",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "AUREX AX-RP10(W) White Compact Record Player with Auto Stop, 33/45 RPM New",
+        "price": "$138.55",
+        "status": "Brand New",
+        "shipping": 16.0,
+        "free_returns": true,
+        "items_sold": 11
+    },
+    {
+        "name": "Victrola Century Essential 5-in-1 Vinyl Stream Bluetooth Record Player Turntable",
+        "price": "$89.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "45 RPM Adapter, for 7 Inch Vinyl Record Players and Technics Turntables, Solid A",
+        "price": "$8.85",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jimi Hendrix - Jimi Hendrix - Are You Experienced - Graphic Turntable Slip Mat [",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Stand with Charging Station, Turntable Stand with Storage Cabin...",
+        "price": "$71.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victor METRO PLUS Portable Rechargeable Bluetooth Suitcase Turntable Record Play",
+        "price": "$69.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP70X-BZ Fully Automatic Belt-Drive Turntable, Black/Bronze",
+        "price": "$249.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NAGAOKA MP-200 NEW 2026 CARTRIDGE/STYLUS & BORON CANTILEVER OFFICIAL DEALER",
+        "price": "$398.00",
+        "status": "Brand New",
+        "shipping": 9.98,
+        "free_returns": false,
+        "items_sold": 32
+    },
+    {
+        "name": "Vinyl Record Player Wireless Bluetooth Turntable HiFi System Magnetic Cartridge",
+        "price": "$89.99",
+        "status": "Brand New",
+        "shipping": 6.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Sony PS-T15 Direct Drive Turntable Stereo RCA Silver Black 33/45RPM",
+        "price": "$60.00",
+        "status": "Pre-Owned",
+        "shipping": 132.89,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player with External Speakers Belt-Drive Turntable for Vinyl",
+        "price": "$119.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Emfogo Record Player Stand with Vinyl Record Storage, Turntable Stand Wall Mount",
+        "price": "$52.22",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEARLY NEW Vintage Turntable HQ-KZ001 Bluetooth Speaker GREAT SOUND",
+        "price": "$85.00",
+        "status": "Pre-Owned",
+        "shipping": 25.87,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Innovative Technology ITUT-300 USB Turntable - Tested",
+        "price": "$39.99",
+        "status": "Pre-Owned",
+        "shipping": 50.96,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sumiko: Replacement Stylus for Moonstone Cartridge (Debut Carbon EVO Upgrade)",
+        "price": "$249.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Premium Anti-Static&Zero-Dust Stylus Cleaner,Dirt and Debris Dry CleaningMixture",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NEW SEALED Gudu Slipmat by Audio-Technica Felt Platter Mat",
+        "price": "$11.25",
+        "status": "Brand New",
+        "shipping": 7.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fons CQ-30 Turntable, Dustcover, Works Good, No Tonearm",
+        "price": "$275.00",
+        "status": "Pre-Owned",
+        "shipping": 90.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR2405C-PA Brown Record Player Turntable CD Cassette AM/FM Remote Aux In",
+        "price": "$60.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable Cork Platter Mat, 12in Shockproof Turntable Platter Mat, Grade Impr...",
+        "price": "$16.80",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley C6B-MA Belt-Drive Bluetooth Turntable w/ Adjustable Tone Arm - Mahogany",
+        "price": "$189.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sam&Johnny 5 Sizes Turntable Belt Rubber Flat Drive Belt for Repair Replacement",
+        "price": "$16.38",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Phono Preamp with RIAA EQ for Turntables with RCA Cable and Ground Wire",
+        "price": "$137.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Numark TTUSB Record Player Turntable US",
+        "price": "$72.48",
+        "status": "Pre-Owned",
+        "shipping": 30.96,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Classic HiFi Vinyl Turntable Record Player Audio Technica Cartridge",
+        "price": "$249.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 250
+    },
+    {
+        "name": "MOFI ULTRADECK+M TURNTABLE WITH MASTERTRACKER MM CARTRIDGE",
+        "price": "$1,400.00",
+        "status": "Pre-Owned",
+        "shipping": 50.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Numark DJ Party Mix Controller Tabletop Small",
+        "price": "$84.99",
+        "status": "Pre-Owned",
+        "shipping": 12.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable Belt for EMERSON NR303TT MC-1434    207",
+        "price": "$13.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 157
+    },
+    {
+        "name": "Brand New Belt: Pioneer PL-15, PL-15C, PL-15D PL-15O II III, PL-16 Turntable",
+        "price": "$9.88",
+        "status": "Brand New",
+        "shipping": 2.49,
+        "free_returns": true,
+        "items_sold": 28
+    },
+    {
+        "name": "CROSLEY CR8005D-TU Cruiser  RECORD PLAYER TURNTABLE CR8005-TU NEW",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 15.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Cartridge and stylus, needle for Pioneer PLX-1000, PL-518, PL-530, PL-A35, PLX-5",
+        "price": "$36.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 55
+    },
+    {
+        "name": "ION Audio Photon LP-3-Speed Turntable Multi-Coloured Lighting Display and USB",
+        "price": "$74.99",
+        "status": "Brand New",
+        "shipping": 36.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "New -  ON Audio Compact LP USB Conversion Turntable",
+        "price": "$69.95",
+        "status": "Brand New",
+        "shipping": 15.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola 6 in 1 Record Player w/ Bluetooth Cassette CD FM Retro Turntable Brown",
+        "price": "$59.98",
+        "status": "Pre-Owned",
+        "shipping": 10.4224,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ultrasonic Stylus Cleaner for Turntables \u2013 Anti-Static Needle Cleaner with Safe,",
+        "price": "$27.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 85
+    },
+    {
+        "name": "Sylvania Portable Record Player Turntable Direct Encoding To PC STT008 USB NEW",
+        "price": "$59.95",
+        "status": "Brand New",
+        "shipping": 1002.6,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Thomas Pacconi Classics 1900-2000 phonograph turntable w/ tape deck and AM/FM",
+        "price": "$99.99",
+        "status": "Pre-Owned",
+        "shipping": 61.84,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jensen JTA-230 3 Speed Stereo Turntable - USB Port **Read Description**",
+        "price": "$14.99",
+        "status": "Parts Only",
+        "shipping": 24.16,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Cruiser Plus Portable Turntable with Bluetooth In/Out - Herringbone",
+        "price": "$44.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NAGAOKA JN-P110 BRAND NEW OFFICIAL/GENUINE STYLUS for MP-110 MP-110H MP100 2026",
+        "price": "$55.98",
+        "status": "Brand New",
+        "shipping": 4.98,
+        "free_returns": false,
+        "items_sold": 60
+    },
+    {
+        "name": "Jensen JTA-475 3-Speed Stereo Turntable with CD System, Cassette and AM/FM Stere",
+        "price": "$146.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Heyday Black & Beige Turntable Belt Drive 33.3/45RPM Stereo RCA Outputs",
+        "price": "$150.00",
+        "status": "Pre-Owned",
+        "shipping": 29.04,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Pioneer PL-12D turntable suspension springs",
+        "price": "$12.00",
+        "status": "Parts Only",
+        "shipping": 5.52,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Technics SL-DD22 Turntable Direct Drive Record Player, Ground Wire & RCA Cables",
+        "price": "$161.49",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR48 Record Album Player Turntable Vinyl CR48PH Antique Look 2002 WORKS!",
+        "price": "$51.80",
+        "status": "Pre-Owned",
+        "shipping": 30.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pioneer PL-1100 Direct Drive Turntable Stereo Record Player Rosewood Audio Used",
+        "price": "$310.00",
+        "status": "Pre-Owned",
+        "shipping": 40.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "AKAI AP-M300 Semi Automatic Turntable Record Player 33 45 RPM",
+        "price": "$99.00",
+        "status": "Pre-Owned",
+        "shipping": 30.96,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tonearm Latch for Pioneer PL-518 Arm Rest \u2013 Fits PL-112D, PL-115, PL-117D",
+        "price": "$14.99",
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ELAC Micracord 770H Turntable *AS-IS with NO RETURNS*  26B061",
+        "price": "$399.99",
+        "status": "Parts Only",
+        "shipping": 40.06,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Teac: TN-280BT Turntable w/ Bluetooth - Matte Black",
+        "price": "$399.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Universal Rubber Mat for Turntable Record Player 11.5 inches Excellent Condition",
+        "price": "$19.95",
+        "status": "Pre-Owned",
+        "shipping": 7.9524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TechPlay ODC17BT 3-Speed Turntable Bluetooth AM/FM MP3 With Remote",
+        "price": "$49.00",
+        "status": "Pre-Owned",
+        "shipping": 13.3524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Mid-Century Modern Record Player Stand with 3-Tier Vinyl Storage for 200 Albums",
+        "price": "$81.69",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject E1 Phono Plug & Play Turntable with Built-in Phono Gloss Black",
+        "price": "$429.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR8005DBK Cruiser Deluxe 3-Speed Turntable - Black Portable Bluetooth",
+        "price": "$35.00",
+        "status": "Open Box",
+        "shipping": 14.74,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "OPTONICA RP-4705 Stereo Full Auto Direct Drive Turntable Glass Lid Working Read",
+        "price": "$250.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Belt Drive Turntable for Vinyl Record Player,Connect with Bluetooth Speakers or",
+        "price": "$192.18",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Metropolitan 4-in-1 Record Player",
+        "price": "$99.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "360\u00b0 Rotating Display Stand Electric Motorized Jewelry Photography Turntable",
+        "price": "$14.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 125
+    },
+    {
+        "name": "NEW Coca-Cola Turntable Bluetooth Speaker Record Player & Carrying Case SEALED",
+        "price": "$75.00",
+        "status": "Brand New",
+        "shipping": 50.85,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Eklectik Bluetooth GUITAR Record Player Vertical Turntable Stereo Speaker HI-FI",
+        "price": "$269.99",
+        "status": "Brand New",
+        "shipping": 47.9924,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ION PROFILE LP USB Turntable Turn Records into MP3s - Missing Cables",
+        "price": "$24.99",
+        "status": "Pre-Owned",
+        "shipping": 10.66,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aluminum HiFi Speaker Turntable Isolation Stand Feet Base Pad Ceramic bead ball",
+        "price": "$24.00",
+        "status": "Brand New",
+        "shipping": 5.0024,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR6045A-WA Miles 3-Speed Bluetooth Record Player - Walnut",
+        "price": "$109.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "VEVOR Bluetooth Vinyl Record Player 3-Speed Belt Driven Turntable 10W Speakers",
+        "price": "$77.29",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "12 Inch Turntable Mat, Slipmat for Vinyl LP Record Player, Record Player Mat (Bl",
+        "price": "$8.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Electrohome/BSR Bradford Dome Top Record Player, model 51870 ***Pls Read",
+        "price": "$275.00",
+        "status": "Pre-Owned",
+        "shipping": 50.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Denon DP-60L Speed Repair Kit Capacitors Turntable Recap Set",
+        "price": "$25.00",
+        "status": "Brand New",
+        "shipping": 6.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Thomas Pacconi Classics Stereo TPC-MSE-800 AM FM Cassette CD Turntable 1900-2000",
+        "price": "$175.00",
+        "status": "Brand New",
+        "shipping": 40.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley C72 2-Speed Belt-Drive Turntable Record Player *READ* PC1722401",
+        "price": "$60.00",
+        "status": "Parts Only",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony PS-LX310BT Bluetooth Stereo Turntable System *PARTS ONLY* PC1693527",
+        "price": "$76.49",
+        "status": "Parts Only",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio Technica AT-LP3XBT Automatic Wireless Belt Drive Turntable (White)",
+        "price": "$379.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR8005D-GO Portable Record Player Hard Case Blue Tooth Portable Mint",
+        "price": "$40.00",
+        "status": "Pre-Owned",
+        "shipping": null,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Electric Turntable 360 Degree Display 7.87in Rotating Stand For Product Photos",
+        "price": "$26.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "The best 100% Synthetic Oil For Lubricating Thorens Turntables!!!",
+        "price": "$13.34",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 61
+    },
+    {
+        "name": "DENON DP-3000NE Analog Direct drive record player dark ebony w/Tracking NEW",
+        "price": "$2,997.84",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola The Lewis Mahogany 8-in-1 Bluetooth Turntable Record Player",
+        "price": "$95.96",
+        "status": "Open Box",
+        "shipping": 14.88,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Dual  and Thorens TD 125/126 Turntables  LED Strobe Light (225321)",
+        "price": "$29.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 66
+    },
+    {
+        "name": "Sony PS-LX300USB Turntable Record Player",
+        "price": "$30.00",
+        "status": "Pre-Owned",
+        "shipping": 25.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Numark DJ Party Mix Controller Tabletop Small",
+        "price": "$84.99",
+        "status": "Pre-Owned",
+        "shipping": 12.07,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sumiko: Replacement Stylus for Moonstone Cartridge (Debut Carbon EVO Upgrade)",
+        "price": "$249.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony PS-X60 Speed Repair Kit Capacitors Turntable Recap Set",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 6.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "WOCKODER KD-2008 Turntable Vinyl record player 33/45/78 built-in speaker NIB",
+        "price": "$49.99",
+        "status": "Brand New",
+        "shipping": 11.4024,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "ENCORE TECHNOLOGY 4 IN 1 NOSTALGIC STEREO TURNTABLE CD CASSETTE RADIO #2691MO.",
+        "price": "$120.00",
+        "status": "Brand New",
+        "shipping": 30.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Symphonic Model 1707 Portable Stereo Record Player Broken Tonearm Tested",
+        "price": "$139.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dual Speaker Record Player Turntable For 7/10/12 Inch Vinyl Records 33/45/78 RPM",
+        "price": "$34.99",
+        "status": "Open Box",
+        "shipping": 40.1,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Yamaha YP-511 Direct Drive Record Player Vintage Turntable Confirm electricity",
+        "price": "$217.90",
+        "status": "Pre-Owned",
+        "shipping": 65.09,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Produtrend Portable Turntable 3 Speed Record Player Suitcase-Built, Color Orange",
+        "price": "$30.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "musitrend 10 In 1 record player With External",
+        "price": "$60.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acuity Insurance Promotional Suitcase Style Record Player Bluetooth Turntable",
+        "price": "$49.99",
+        "status": "Open Box",
+        "shipping": 11.58,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Hi-Res Carbon Turntable (black/silver) VPT-2500-BSL",
+        "price": "$299.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "GE General Electric Record Player Turntable Idler Wheel Wildcat 100s of Others",
+        "price": "$34.95",
+        "status": "Brand New",
+        "shipping": 5.29,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ortofon MC Quintet Red Phono Cartridge (Open Box)",
+        "price": "$299.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Syitren PARON II Bluetooth Turntable Record Player Built-In Speaker COMPLETE NEW",
+        "price": "$199.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Numark TT USB Turntable Connect to Computer & Digitizes Vinyl Records",
+        "price": "$69.99",
+        "status": "Pre-Owned",
+        "shipping": 19.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Stand w/ Divider Holds 200 Albums Mid-Century",
+        "price": "$73.68",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "360-Degree Electric Rotating Turntable, Rechargeable Low Noise Adjustable Smo...",
+        "price": "$27.02",
+        "status": "Brand New",
+        "shipping": 9.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Auto Turntable for 3D Scanners, Easy Scanning of Featureless and Small",
+        "price": "$46.79",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Stand 2/3-Tier Metal/Wooden Turntable Stand with 3 Cabinets",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Google Pixel Hip Hop 50th Anniversary Victrola Turntable SEE VIDEO - RARE",
+        "price": "$299.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley C300 2-Speed Bluetooth Out Fully Automatic Turntable - Black C300A-BK",
+        "price": "$199.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject T1 EVO Phono Black Gloss Turntable w/OM10 Cartridge & Built-in Pre-Amp",
+        "price": "$599.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "STRANGER THINGS Victrola WSQK Record Turntable Speakers Netflix SEE DETAILS",
+        "price": "$80.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Functional 12-Inch Gray Turntable: Ideal Storage for Every Room in Your Home",
+        "price": "$32.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Clasico Toca Discos Consola Rocola Port\u00e1til Bluethooth Regalo De Navidad",
+        "price": "$52.76",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "\u2745EXCELLENT\u2745 Record Player w Built-In Speaker ~VIBE SOUND~ USB Turntable \u2606SONOMA\u2606",
+        "price": "$38.90",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Universal Rubber Mat for Turntable Record Player 11.5 inches Excellent Condition",
+        "price": "$19.95",
+        "status": "Pre-Owned",
+        "shipping": 7.95,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Gadhouse Brad Vintage Record Player 3 Speed Turntable Built In Bluetooth Head!",
+        "price": "$62.99",
+        "status": "Pre-Owned",
+        "shipping": 19.82,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "For Sme 3009 /3010/3012 Series 2 Improved Tone Arm Rider Weight 18.8G w/Wrench",
+        "price": "$17.32",
+        "status": "Brand New",
+        "shipping": 5.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable Tonearm Counterweights",
+        "price": "$59.00",
+        "status": "Pre-Owned",
+        "shipping": 12.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dual CS 329 Fully Automatic Plug & Play Belt-Drive Turntable",
+        "price": "$297.60",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "10-in-1 Bluetooth Record Player Multifunctional 3-Speed Turntable Vinyl Record",
+        "price": "$109.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TTWeight Classic 454g Aluminum Turntable Record Weight Level",
+        "price": "$100.00",
+        "status": "Pre-Owned",
+        "shipping": 10.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola ITUT-420 Modern Bluetooth Stereo Turntable & 50W Speakers - Gloss Black",
+        "price": "$54.00",
+        "status": "Pre-Owned",
+        "shipping": 69.23,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LP60 USB Turntable Silver/Black, 33/45RPM, Belt Drive",
+        "price": "$89.95",
+        "status": "Pre-Owned",
+        "shipping": 50.98,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance Reference High Fidelity Vinyl Turntable Record Player Ortofon Cartridge",
+        "price": "$399.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony PS-LX300USB Stereo Turntable - Excellent-Fully Automatic Phono - Tested",
+        "price": "$84.50",
+        "status": "Pre-Owned",
+        "shipping": 23.9,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio Technica USB Turntable Digital Recording System",
+        "price": "$220.00",
+        "status": "Brand New",
+        "shipping": 15.1624,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DIGITNOW Black Turntable 33/45/78RPM AM/FM Radio Cassette USB SD/MMC Aux In",
+        "price": "$30.00",
+        "status": "Pre-Owned",
+        "shipping": 13.89,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "NEW Keychain Mini Turntable Record Player Light Up LED Keyring with Sound",
+        "price": "$9.95",
+        "status": "Brand New",
+        "shipping": 5.45,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Spinning Galaxy - Graphic Turntable Slip Mat [New Vinyl Accessory]",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley C100BT-BK 2-Speed Bluetooth Turntable Record Player - Black",
+        "price": "$279.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Modern Bluetooth Stereo Turntable ITUT420 Black New Open Box",
+        "price": "$99.95",
+        "status": "Open Box",
+        "shipping": 52.54,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "360\ufffd Motorized Rotating Display Stand Electric Turntable for Products Jewelry",
+        "price": "$21.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Journey BT turntable Suitcase with All Accessories Vinyl Record Player",
+        "price": "$51.46",
+        "status": "Open Box",
+        "shipping": 107.65,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-SB727 Yellow Color SOUND BURGER Record Player Turntable NEW",
+        "price": "$198.96",
+        "status": "Brand New",
+        "shipping": 40.0,
+        "free_returns": true,
+        "items_sold": 121
+    },
+    {
+        "name": "Supreme Audio Technica Sound Burger Turntable Red",
+        "price": "$399.00",
+        "status": "Brand New",
+        "shipping": 20.18,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Magnavox astro sonic stereo turn table and 8 track complete working",
+        "price": "$150.00",
+        "status": "Pre-Owned",
+        "shipping": 27.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Hudson Hi-Fi Platinum Silicone Hemisphere Non-Skid Isolation Feet w/ Adhesive",
+        "price": "$32.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 31
+    },
+    {
+        "name": "Audio-Technica AT-LP60X Turntable - Gunmetal/Black",
+        "price": "$95.00",
+        "status": "Pre-Owned",
+        "shipping": 110.44,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ClearClick All-in-One Turntable w/ Record Player CD Cassette Radio CD Aux USB BT",
+        "price": "$209.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola 370B 7-in-1 Nostalgic Belt Drive Turntable With USB Encoding [CJ92]",
+        "price": "$89.99",
+        "status": "Pre-Owned",
+        "shipping": 9.99,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Liquid Bearings BEST 100%-synthetic oil for direct drive turntables, PLEASE READ",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "TerraTec Phono PreAmp Studio Vinyl Restoration Solution - New (Sealed)",
+        "price": "$20.00",
+        "status": "Brand New",
+        "shipping": 6.83,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SONY PS-LX300USB TURNTABLE RECORD PLAYER IN BOX - USB OR RCA OUTPUT",
+        "price": "$98.19",
+        "status": "Pre-Owned",
+        "shipping": 139.36,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Premium Anti-Static&Zero-Dust Stylus Cleaner,Dirt and Debris Dry CleaningMixture",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Stylish Magic Black Wooden Record Player Stand - Versatile Storage & Organizer",
+        "price": "$86.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "AVID Ingenium Plug&Play Turntable with Aluminum Platter Upgrade and Cartridge",
+        "price": "$2,049.99",
+        "status": "Open Box",
+        "shipping": 49.99,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "**NEW** Victrola Journey+ Suitcase Record Player Bluetooth Turntable, Gray Linen",
+        "price": "$48.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TANNOY MICRO TM33 belt drive turntable ...NO RETURNS...PARTS ONLY...",
+        "price": "$325.80",
+        "status": "Parts Only",
+        "shipping": 74.9,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Stereo Audio Optonica RP-4705 Direct Drive Turntable - Needs Work Glass",
+        "price": "$165.00",
+        "status": "Pre-Owned",
+        "shipping": 22.89,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Audio-Technica AT-LPGO-BT Full Automatic Wireless Bluetooth Belt-Drive Turntable",
+        "price": "$169.95",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Optimus Lab 340 Turntable - Needs new stylus",
+        "price": "$33.99",
+        "status": "Pre-Owned",
+        "shipping": 21.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "DANFI AUDIO Vintage Turntable Record Player Stereo L/R RCA Brown Clear Black",
+        "price": "$45.00",
+        "status": "Pre-Owned",
+        "shipping": 20.98,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Electrix LP VinylKing Direct Drive Professional Turntable USB ET-12USB",
+        "price": "$99.00",
+        "status": "Pre-Owned",
+        "shipping": 64.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Acrylic Turntable Platter Mat, 12 Inches Acrylic Slipmat for Vinyl LP Record ...",
+        "price": "$11.88",
+        "status": "Brand New",
+        "shipping": 9.9924,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Record Weight Stabilizer, Turntable and Vinyl Record Weight, Premium Vinyl St...",
+        "price": "$14.60",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola VTA-200B Bluetooth Record Player 3-Speed Brown Stereo RCA Output",
+        "price": "$80.00",
+        "status": "Pre-Owned",
+        "shipping": 20.98,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Eastwood Signature VTA-73-ESP Media Player - Brown",
+        "price": "$39.99",
+        "status": "Open Box",
+        "shipping": 11.31,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Electric Turntable DIsplay Stand 360 Degrees Illuminated Original Box Remote",
+        "price": "$84.00",
+        "status": "Pre-Owned",
+        "shipping": 9.45,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jensen JTA-230 3 Speed Stereo Turntable - USB Port **Read Description**",
+        "price": "$14.99",
+        "status": "Parts Only",
+        "shipping": 24.16,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Ortofon MC Quintet Red Phono Cartridge (Open Box)",
+        "price": "$299.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ION Air LP Wireless Turntable (DAMAGED BOX)",
+        "price": "$79.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Century Essential 5-in-1 Vinyl Stream Bluetooth Record Player Turntable",
+        "price": "$115.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Trexonic 3-Speed Vinyl Turntable Home Stereo System",
+        "price": "$190.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Stranger Things One WSQK Speaker 3.5mm Aux Working",
+        "price": "$33.15",
+        "status": "Pre-Owned",
+        "shipping": 8.72,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Turntable suspended isolation Leveling feet foot Load Set of 4 Black",
+        "price": "$72.87",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "RSD Crosley Wicked Green Turntable + Exclusive Collectibles Bundle",
+        "price": "$299.99",
+        "status": "Brand New",
+        "shipping": 14.59,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Bags Unlimited S10W - 10 Inch 78 RPM Paper Record Sleeves - 50 Count (White) [Ne",
+        "price": "$26.11",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 251
+    },
+    {
+        "name": "Rustic Brown Turntable Stand with Storage for Over 100 Records & USB Charging",
+        "price": "$60.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR8017A-BK Voyager Vintage Portable Turntable - Black",
+        "price": "$30.00",
+        "status": "Open Box",
+        "shipping": 10.66,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "GRIMM'S BAERWALD PROTRACTOR FOR NAGAOKA MP-100, 110 ,150, 200 PHONO CARTRIDGE",
+        "price": "$35.00",
+        "status": "Brand New",
+        "shipping": 8.75,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ELAC Micracord 770H Turntable *AS-IS with NO RETURNS*  26B061",
+        "price": "$399.99",
+        "status": "Parts Only",
+        "shipping": 40.06,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "12 Inch Turntable Mat, Slipmat for Vinyl LP Record Player, Record Player Mat (Bl",
+        "price": "$8.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "100% Synthetic Oil for lubricating Turntables, Liberty Oil Made in the U.S.A.",
+        "price": "$13.34",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 121
+    },
+    {
+        "name": "6 Pack Record Player Needle Replacement, Upgraded Vinyl Needle...",
+        "price": "$9.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 6
+    },
+    {
+        "name": "\u2745EXCELLENT\u2745 Record Player w Built-In Speaker ~VIBE SOUND~ USB Turntable \u2606SONOMA\u2606",
+        "price": "$38.90",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Suitcase Bluetooth",
+        "price": "$32.19",
+        "status": "Pre-Owned",
+        "shipping": 18.15,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Weight Stabilizer, Turntable and Vinyl Record Weight, Premium Vinyl St...",
+        "price": "$15.05",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "2x Technics SL-1210 MK2 Direct Drive Turntable System Slightly Used/Open-Box",
+        "price": "$3,800.00",
+        "status": "Pre-Owned",
+        "shipping": 103.25,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victor QL-A70 Auto-Lift Direct Drive Turntable in Good Condition",
+        "price": "$750.00",
+        "status": "Pre-Owned",
+        "shipping": 150.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Reloop Turn 5 Direct Drive HiFi Turntable System PRO Audio",
+        "price": "$899.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Aluminum HiFi Speaker Turntable Isolation Stand Feet Base Pad Ceramic bead ball",
+        "price": "$24.00",
+        "status": "Brand New",
+        "shipping": 5.0024,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "360\u00b0 Electric Motorized Rotating Display Stand Jewelry Photography Show Holder",
+        "price": "$13.69",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 16
+    },
+    {
+        "name": "Vintage Juliette Topp Phonograph Record & 8 Track Player AM FM Stereo 8RR-999",
+        "price": "$249.99",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Turntable Replacement Feet for Pioneer PL-512/514/516/518/540/560",
+        "price": "$29.98",
+        "status": "Brand New",
+        "shipping": 5.77,
+        "free_returns": true,
+        "items_sold": 151
+    },
+    {
+        "name": "GENUINE  Tetrad/BSR flip style T2MD DIAMOND SAPPHIRE Lp/78",
+        "price": "$11.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 342
+    },
+    {
+        "name": "Ortofon 2M Blue MM Phono Cartridge",
+        "price": "$219.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Aiwa Stereo Turntable System model PX-E860U Vintage 1999",
+        "price": "$39.99",
+        "status": "Pre-Owned",
+        "shipping": 19.26,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Diner Jukebox Tabletop Bluetooth Speaker Chrome Plated Retro Silver - Used",
+        "price": "$25.00",
+        "status": "Pre-Owned",
+        "shipping": 10.0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Seasonlife Record Player All-in-One High Fidelity Turntable Vinyl Records (CNX)",
+        "price": "$71.99",
+        "status": "Open Box",
+        "shipping": 43.81,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Dust Cover Hinge Turntable Parts Fits Kenwood,Linn,Realistic,Sansui,Sony,Yamaha",
+        "price": "$8.49",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 812
+    },
+    {
+        "name": "Dual  and Thorens TD 125/126 Turntables  LED Strobe Light (225321)",
+        "price": "$29.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 66
+    },
+    {
+        "name": "Auralex ISO-Tone Turntable Isolation Platform",
+        "price": "$87.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Reproductor de discos de vinilo Bluetooth de 3 velocidades con altavoces integra",
+        "price": "$94.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TK-12 Cartridge Holder SLED for Dual 1019 Turntables and more",
+        "price": "$24.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Tonearm Latch for Pioneer PL-518 Arm Rest \u2013 Fits PL-112D, PL-115, PL-117D",
+        "price": "$14.99",
+        "status": null,
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "BEST 100%-synthetic lubricant for Telefunken or any turntables, PLEASE READ!",
+        "price": "$16.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Technics SL-6 Linear Tracking Turntable Fully Automatic Direct Drive Tested Read",
+        "price": "$139.99",
+        "status": "Pre-Owned",
+        "shipping": 21.9624,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Belt Drive Turntable for Vinyl Record Player,Connect with Bluetooth Speakers",
+        "price": "$193.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Automatic VPT-800-BLK Fully Automatic Bluetooth Turntable Black",
+        "price": "$124.95",
+        "status": "Brand New",
+        "shipping": 16.53,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "TURNTABLE BELT FOR TECHNICS SL-B5 SG-J555 SL-B300 SL-B303 SL-H205 SL-B20 SL-BD27",
+        "price": "$9.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 147
+    },
+    {
+        "name": "Vibration Isolation Platform for your Music Hall Turntable",
+        "price": "$649.00",
+        "status": "Brand New",
+        "shipping": 23.54,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Pioneer Pl-530, 550, 570 Turntable Aftermarket Dustcover",
+        "price": "$159.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Jensen 3-Speed Stereo Turntable JTA-230 - Built In Speakers (Works Great!)",
+        "price": "$21.00",
+        "status": "Pre-Owned",
+        "shipping": 9.45,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Record Player Stand With Power Outlets LED Vinyl Storage 350 Albums",
+        "price": "$96.67",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "VICTROLA VTA-80 Jackson Bluetooth Stereo - Replacement Remote Control",
+        "price": "$24.99",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vinyl Record Player Wireless Turntable with Built-In Speakers, USB Belt-Driven",
+        "price": "$55.59",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Ground Wire for Technics SL-BD10 BD20 BD22 BD35 SL-L26 SL-QD22 Phonograph Tur...",
+        "price": "$9.51",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 6
+    },
+    {
+        "name": "Technics SL-D202 & SL-D303 Speed Repair Kit Capacitors Turntable Recap Set",
+        "price": "$12.00",
+        "status": "Brand New",
+        "shipping": 6.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "NAGAOKA MP-200H NEW 2026 MADE IN JAPAN CARTRIDGE+Headshell by AUTHORIZED DEALER",
+        "price": "$414.98",
+        "status": "Brand New",
+        "shipping": 8.98,
+        "free_returns": false,
+        "items_sold": 27
+    },
+    {
+        "name": "Record Player Stand 2/3-Tier Metal/Wooden Turntable Stand with 3 Cabinets",
+        "price": "$99.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Pro-Ject Record Puck (Polished Brass)",
+        "price": "$119.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Sony PS-LX300USB Stereo Turntable - Excellent-Fully Automatic Phono - Tested",
+        "price": "$84.50",
+        "status": "Pre-Owned",
+        "shipping": 23.9,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "U-Turn Audio Orbit White Turntable Record Player, Belt Drive, 33/45RPM RCA",
+        "price": "$159.50",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Detrola KM837 Stereo Record Player Phono Cassette CD AM FM Radio Tested Works",
+        "price": "$89.99",
+        "status": "Pre-Owned",
+        "shipping": 21.48,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Andover Audio SpinDeck Belt-Drive Turntable - White AAMD4SD1WH01NA",
+        "price": "$374.12",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "The DJ's Secret Weapon: 3-Piece Alignment Kit \u2013 VTA Block, Stylus Scale, Tonearm",
+        "price": "$31.95",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Trirdyn",
+        "price": "$125.00",
+        "status": "Pre-Owned",
+        "shipping": 57.98,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "record player antique Packard Bell 261 turntable",
+        "price": "$28.84",
+        "status": "Parts Only",
+        "shipping": 30.7,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SME SYNERGY PRECISION INTEGRATED TURNTABLE w/ Original Box in Mint Condition",
+        "price": "$15,900.00",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SEVIA Record Player Vintage Turntable for Vinyl Records with Built-in Speaker...",
+        "price": "$254.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Teac: TN-280BT Turntable w/ Bluetooth - Matte Black",
+        "price": "$399.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1byone Stereo Turmble Convert Record to MP3s Turntable Player USB MP3 Black",
+        "price": "$50.00",
+        "status": "Open Box",
+        "shipping": 20.69,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Record Player Turntable Cruiser Plus Bluetooth - CR8005F-WS Used",
+        "price": "$24.99",
+        "status": "Pre-Owned",
+        "shipping": 13.4524,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "SEALED Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat",
+        "price": "$29.99",
+        "status": "Brand New",
+        "shipping": 6.88,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Boytone BT-22M Bluetooth Record Player Turntable AM/FM Radio Cassette CD",
+        "price": "$129.00",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": 19
+    },
+    {
+        "name": "Technics SL-DD22 Turntable Direct Drive Record Player, Ground Wire & RCA Cables",
+        "price": "$161.49",
+        "status": "Pre-Owned",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley CR48 Record Album Player Turntable Vinyl CR48PH Antique Look 2002 WORKS!",
+        "price": "$51.80",
+        "status": "Pre-Owned",
+        "shipping": 30.0024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1X  Dual Turntable #216844 223777 Guide Steuerpimpel 1219 1229 1229Q  701, etc",
+        "price": "$8.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 363
+    },
+    {
+        "name": "Crosley Cruiser Plus Portable Turntable Bluetooth \u2013 CR8005F-BU",
+        "price": "$39.99",
+        "status": "Pre-Owned",
+        "shipping": 11.4024,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Vintage Technics Turntable FG Servo ATS SL-BD22, Powers on\u2026FOR PARTS Sold As Is",
+        "price": "$65.00",
+        "status": "Parts Only",
+        "shipping": 53.1,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "3D Moon - Graphic Turntable Slip Mat [New Vinyl Accessory]",
+        "price": "$19.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "UDREAMER UD001 TURNTABLE SYSTEM, BLUETOOTH IN, USB IN, RCA LINE OUT, W/SPEAKERS",
+        "price": "$44.99",
+        "status": "Open Box",
+        "shipping": 13.8024,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Versatile Gray Suitcase Turntable - Bluetooth, RCA Out & Headphone Jack",
+        "price": "$35.00",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "10Pcs New Turntable Belt Replace Turntable Phono Plattenspieler Drive Belt",
+        "price": "$10.93",
+        "status": "Brand New",
+        "shipping": 5.99,
+        "free_returns": false,
+        "items_sold": 26
+    },
+    {
+        "name": "2PK FOR TURNTABLES SL 1200 MKII / 1210 MKII,  1200M3D - DUST COVER HINGE SET  W",
+        "price": "$12.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": 20
+    },
+    {
+        "name": "Metallica - Metallica - Master of Puppets - Slip Mat [New Vinyl Accessory] One S",
+        "price": "$14.99",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Crosley Cruiser Plus Portable Turntable with Bluetooth In/Out - Herringbone",
+        "price": "$44.95",
+        "status": "Open Box",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "1 By One Stereo Turntable, Model MD-920, Black Tested Working w/Manual",
+        "price": "$15.00",
+        "status": "Pre-Owned",
+        "shipping": 17.41,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "STYLUS PRESSURE GAUGE/SCALE Quality Digital Scale for Turntables PLUS FREEBIE!!",
+        "price": "$17.95",
+        "status": "Brand New",
+        "shipping": 5.5,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "Denon DP-50M Direct Drive Record Player Turntable System Untested",
+        "price": "$310.00",
+        "status": "Parts Only",
+        "shipping": 63.0,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Victrola Journey+ Bluetooth Suitcase Record Player New- Gray",
+        "price": "$27.96",
+        "status": "Open Box",
+        "shipping": 15.16,
+        "free_returns": true,
+        "items_sold": null
+    },
+    {
+        "name": "Fluance IB40 Turntable Isolation Base Anti-Vibration Wood Platform, Bubble Level",
+        "price": "$149.98",
+        "status": "Brand New",
+        "shipping": 0,
+        "free_returns": false,
+        "items_sold": null
+    },
+    {
+        "name": "ION iTTUSB Enabled Belt Drive Turntable Digitized Vinyl Tested & Works",
+        "price": "$25.00",
+        "status": "Pre-Owned",
+        "shipping": 16.31,
+        "free_returns": false,
+        "items_sold": null
+    }
+]
